@@ -1,3 +1,12 @@
+/**
+ * 
+ * Tim Johnson
+ * Grand Circus
+ * 11/2/17
+ * Lab9_Cars
+ *
+ */
+
 import java.util.Scanner;
 
 /*
