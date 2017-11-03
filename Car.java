@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * holds details about the cars in Car Class
+ */
+
 public class Car{
 	private String make;
 	private String model;
